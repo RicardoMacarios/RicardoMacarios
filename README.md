@@ -84,5 +84,4 @@ Busco oportunidades como desenvolvedor júnior onde possa aplicar e expandir meu
 ---
 
 <p align="center">
-  <em>"O aprendizado é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende." – Leonardo da Vinci</em>
-</p>
+  
