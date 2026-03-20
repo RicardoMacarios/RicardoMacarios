@@ -62,7 +62,7 @@ Busco oportunidades como desenvolvedor júnior onde possa aplicar e expandir meu
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [lab-manager-frontend](https://github.com/RicardoMacarios/lab-manager-frontend) | Sistema de gerenciamento de laboratório | JavaScript, CSS, HTML |
+| [lab-manager-frontend](https://github.com/RicardoMacarios/lab-manager-frontend) | Sistema de gerenciamento de Valvulas | JavaScript, CSS, HTML |
 
 ---
 
