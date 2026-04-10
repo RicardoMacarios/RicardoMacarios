@@ -62,8 +62,8 @@ Busco oportunidades como desenvolvedor júnior onde possa aplicar e expandir meu
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [lab-manager-frontend](https://github.com/RicardoMacarios/lab-manager-frontend) | Sistema de gerenciamento de Valvulas | JavaScript, CSS, HTML |
-| [valve-management-system](https://github.com/RicardoMacarios/valve-management-system) | Sistema de gerenciamento de Estoque | JavaScript, CSS, HTML |
+| [Controle de Estoque Quimico](https://github.com/RicardoMacarios/Controle-de-estoque-qu-mico) | Sistema de gerenciamento de Estoque | JavaScript, CSS, HTML |
+| [valve-management-system](https://github.com/RicardoMacarios/valve-management-system) |  Sistema de gerenciamento de Valvulas | JavaScript, CSS, HTML |
 
 ---
 
