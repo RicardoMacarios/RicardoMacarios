@@ -62,10 +62,6 @@ Busco oportunidades como desenvolvedor júnior onde possa aplicar e expandir meu
 
 
 
-`); this.textContent = '✓ Copiado!'; setTimeout(()=>this.textContent='Copiar', 2000)" style="margin-top: 12px; padding: 8px 20px; font-size: 13px; cursor: pointer;">Copiar
-
----
-
 ## 🚀 Projetos em Destaque
 
 > 💡 *Em breve novos projetos serão adicionados aqui conforme minha evolução.*
