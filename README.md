@@ -59,8 +59,8 @@ Busco oportunidades como desenvolvedor júnior onde possa aplicar e expandir meu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </p>
 <br/><br/>
-\n \"HTML\"\n \"CSS\"\n \"JavaScript\"\n \"TypeScript\"\n \"React\"\n \"Next.js\"\n \"Python\"\n \"C#\"\n \"SQL\"\n \"Supabase\"\n \"Git\"\n
-\n
+
+
 
 `); this.textContent = '✓ Copiado!'; setTimeout(()=>this.textContent='Copiar', 2000)" style="margin-top: 12px; padding: 8px 20px; font-size: 13px; cursor: pointer;">Copiar
 
