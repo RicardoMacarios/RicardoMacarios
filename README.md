@@ -70,6 +70,7 @@ Busco oportunidades como desenvolvedor júnior onde possa aplicar e expandir meu
 |--------|-----------|-------------|
 | [Controle de Estoque Quimico](https://github.com/RicardoMacarios/Controle-de-estoque-qu-mico) | Sistema de gerenciamento de Estoque | JavaScript, CSS, HTML |
 | [valve-management-system](https://github.com/RicardoMacarios/valve-management-system) |  Sistema de gerenciamento de Valvulas | JavaScript, CSS, HTML |
+| [RedeEsperança](https://github.com/RicardoMacarios/RedeEsperanca) | Sistema de cadastro e gestão de ONGs e voluntários | React, JavaScript, Node.js, Supabase, JWT, multer |
 
 ---
 
