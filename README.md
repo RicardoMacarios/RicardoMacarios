@@ -34,7 +34,6 @@ Busco oportunidades como desenvolvedor júnior onde possa aplicar e expandir meu
 ---
 
 ## 🛠️ Linguagens e Tecnologias
-
 <p align="left">
   <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -42,17 +41,28 @@ Busco oportunidades como desenvolvedor júnior onde possa aplicar e expandir meu
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
   <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img align="left" alt="React" title="React" width="35px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img align="left" alt="Next.js" title="Next.js" width="35px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
   <img align="left" alt="Python" title="Python" width="35px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="left" alt="C#" title="C#" width="35px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img align="left" alt="SQL" title="SQL" width="35px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img align="left" alt="Supabase" title="Supabase" width="35px" style="padding-right:10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
   <img align="left" alt="Git" title="Git" width="35px" style="padding-right:10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </p>
-
 <br/><br/>
+\n \"HTML\"\n \"CSS\"\n \"JavaScript\"\n \"TypeScript\"\n \"React\"\n \"Next.js\"\n \"Python\"\n \"C#\"\n \"SQL\"\n \"Supabase\"\n \"Git\"\n
+\n
+
+`); this.textContent = '✓ Copiado!'; setTimeout(()=>this.textContent='Copiar', 2000)" style="margin-top: 12px; padding: 8px 20px; font-size: 13px; cursor: pointer;">Copiar
 
 ---
 
