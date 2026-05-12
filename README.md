@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Tenho 18 anos, sou natural de São Joaquim da Barra – SP e atualmente curso **Sistemas de Informação na FAFRAM**. Estou construindo minha trajetória na área de desenvolvimento com foco em me tornar um desenvolvedor **FullStack** completo, comprometido com boas práticas e aprendizado contínuo.
+Tenho 19 anos, sou natural de São Joaquim da Barra – SP e atualmente curso **Sistemas de Informação na FAFRAM**. Estou construindo minha trajetória na área de desenvolvimento com foco em me tornar um desenvolvedor **FullStack** completo, comprometido com boas práticas e aprendizado contínuo.
 
 ---
 
