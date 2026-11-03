@@ -1,95 +1,72 @@
-<h1 align="center">Ricardo Parise Macarios Junior</h1>
+<div align="center">
 
-<p align="center">
-  <em>Desenvolvedor FullStack em formação · Sistemas de Informação · FAFRAM</em>
-</p>
+# Ricardo Parise Macarios Junior
 
-<p align="center">
-  <a href="https://www.instagram.com/ricardo_macarioss?igsh=dHk4cXY3NzYzcmM5" target="_blank">
-    <img alt="Instagram" title="Instagram"
-      src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="http://www.linkedin.com/in/ricardo-macarios-22115335a" target="_blank">
-    <img alt="LinkedIn" title="LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=juniormacarios92@gmail.com" target="_blank">
-    <img alt="Gmail" title="Gmail"
-      src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Backend+Developer+em+forma%C3%A7%C3%A3o;Criador+da+BarberVez;Sistemas+de+Informa%C3%A7%C3%A3o+%C2%B7+FAFRAM" alt="Typing SVG" />
+
+<a href="https://www.linkedin.com/in/ricardo-macarios-22115335a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/ricardo_macarioss" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=juniormacarios92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Tenho 19 anos, sou natural de São Joaquim da Barra – SP e atualmente curso **Sistemas de Informação na FAFRAM**. Estou construindo minha trajetória na área de desenvolvimento com foco em me tornar um desenvolvedor **FullStack** completo, comprometido com boas práticas e aprendizado contínuo.
+Sou de São Joaquim da Barra – SP e estudo **Sistemas de Informação na FAFRAM**. Venho da área técnica de química e hoje direciono minha carreira para o **desenvolvimento back-end**: APIs, bancos de dados, regras de negócio e sistemas que resolvem problemas reais.
+
+- 🚀 Fundador da **BarberVez**, SaaS de agendamento para barbearias com clientes ativos
+- 🛠️ Desenvolvo sistemas de gestão (estoque, agendamento, cadastro) do banco de dados à interface
+- 📚 Atualmente aprofundando em **Node.js, SQL e arquitetura de APIs**
+- 🎯 Buscando oportunidade como **desenvolvedor júnior / estágio**
 
 ---
 
-## 🎯 Objetivo Profissional
+## 💼 Projetos em destaque
 
-Busco oportunidades como desenvolvedor júnior onde possa aplicar e expandir meu conhecimento em desenvolvimento web e de sistemas. Tenho interesse em projetos que envolvam tanto o front-end quanto o back-end, sempre com foco em qualidade, clareza de código e evolução técnica constante.
+| Projeto | O que faz | Stack |
+|---|---|---|
+| **BarberVez** | SaaS de agendamento para barbearias, com login por barbeiro e painel de gestão | React · Node.js · Supabase |
+| **Renova** | SaaS multi-tenant de agendamento e gestão para salões de beleza | React · Node.js · Supabase |
+| [**RedeEsperança**](https://github.com/RicardoMacarios/RedeEsperanca) | Cadastro e gestão de ONGs e voluntários, com autenticação JWT e upload de arquivos | React · Node.js · Supabase · JWT · Multer |
+| [**Controle de Estoque Químico**](https://github.com/RicardoMacarios/Controle-de-estoque-qu-mico) | Gerenciamento de estoque de reagentes com entradas, saídas e consulta | JavaScript · HTML · CSS |
+| [**Valve Management System**](https://github.com/RicardoMacarios/valve-management-system) | Cadastro e acompanhamento de válvulas e manutenções | JavaScript · HTML · CSS |
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
-<p align="left">
-  <img align="left" alt="HTML" title="HTML" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img align="left" alt="CSS" title="CSS" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img align="left" alt="JavaScript" title="JavaScript" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img align="left" alt="TypeScript" title="TypeScript" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-  <img align="left" alt="React" title="React" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="left" alt="Next.js" title="Next.js" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-  <img align="left" alt="Python" title="Python" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="left" alt="C#" title="C#" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
-  <img align="left" alt="SQL" title="SQL" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img align="left" alt="Supabase" title="Supabase" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
-  <img align="left" alt="Git" title="Git" width="35px" style="padding-right:10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-</p>
-<br/><br/>
+## 🛠️ Tecnologias
 
+<div align="center">
 
+**Back-end & Dados**
 
-## 🚀 Projetos em Destaque
+<img src="https://skillicons.dev/icons?i=nodejs,ts,js,py,cs,postgres,mysql,supabase&perline=8" />
 
-> 💡 *Em breve novos projetos serão adicionados aqui conforme minha evolução.*
+**Front-end & Ferramentas**
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Controle de Estoque Quimico](https://github.com/RicardoMacarios/Controle-de-estoque-qu-mico) | Sistema de gerenciamento de Estoque | JavaScript, CSS, HTML |
-| [valve-management-system](https://github.com/RicardoMacarios/valve-management-system) |  Sistema de gerenciamento de Valvulas | JavaScript, CSS, HTML |
-| [RedeEsperança](https://github.com/RicardoMacarios/RedeEsperanca) | Sistema de cadastro e gestão de ONGs e voluntários | React, JavaScript, Node.js, Supabase, JWT, multer |
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,git,github,vercel,vscode&perline=8" />
+
+</div>
 
 ---
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img 
-    alt="Estatísticas do GitHub" 
-    src="https://github-readme-stats.vercel.app/api?username=Ricardo-Mac-rio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-</p>
-<p align="center">
-  <img 
-    alt="Principais linguagens" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Mac-rio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
-  />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=RicardoMacarios&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMacarios&layout=compact&theme=github_dark&hide_border=true&langs_count=6&locale=pt-br" />
+
+</div>
 
 ---
 
-<p align="center">
-  
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoMacarios/RicardoMacarios/output/github-snake-dark.svg" />
+  <img alt="snake" src="https://raw.githubusercontent.com/RicardoMacarios/RicardoMacarios/output/github-snake.svg" />
+</picture>
+
+</div>
