@@ -55,8 +55,10 @@ Sou de São Joaquim da Barra – SP e estudo **Sistemas de Informação na FAFRA
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RicardoMacarios&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&locale=pt-br" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMacarios&layout=compact&theme=github_dark&hide_border=true&langs_count=6&locale=pt-br" />
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" />
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" />
 
 </div>
 
